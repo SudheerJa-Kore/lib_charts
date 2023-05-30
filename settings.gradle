@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ChartsSDK"
 include ':app'
+include ':MPAndroidChart-3.1.0'
