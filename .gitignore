@@ -9,6 +9,7 @@
 /.idea/assetWizardSettings.xml
 .DS_Store
 /build
+/webrtcsdk-release/build
 /captures
 .externalNativeBuild
 .cxx
